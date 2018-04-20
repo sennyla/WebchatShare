@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/welcome/welcome",
+    "pages/pcweb/pcweb",
+    "pages/sharepage/sharepage",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

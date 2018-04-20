@@ -1,0 +1,47 @@
+page {  
+  display: block;  
+  min-height: 100%;  
+  background-color: #3285FF;
+} 
+.conntext{
+   font-weight: 700; 
+}
+.welcom-container{
+  width: 100%;
+  height: 100%;
+  padding:220rpx 80rpx 50rpx 80rpx;
+  color:#fff;
+  box-sizing: border-box;
+  position: relative;
+}
+.welcom-logo{
+  position: absolute;
+  top: 130rpx;
+  right:100rpx;
+  width: 120rpx;
+  height: 120rpx;
+}
+.welcom-subtitle{
+  display:flex;
+  flex-direction:column;
+  font-size:14px;
+  color:#eee;
+  margin: 200rpx 0 150rpx;
+}
+.welcom-button{
+  width: 100%;
+  border: 1px solid #efefef;
+  color:#fff;
+  font-size: 20px;
+  text-align: center;
+  padding: 5rpx 0;
+  font-weight: 500;
+  letter-spacing: 30rpx;
+  background: none;
+}
+.telShow{
+    display: block;
+}
+.telHide{
+    display: none;
+}

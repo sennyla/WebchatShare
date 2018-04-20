@@ -1,0 +1,8 @@
+<view class='welcom-container'>
+  <view class='conntext' style="font-size: 40px;margin-bottom: 5rpx;color:#fff;">分享</view>
+  <view class='conntext' style="font-size: 30px;margin-bottom: 5rpx;color:#fff;">将会带来什么乐趣呢</view>
+  <view class='conntext' style="font-size: 16px;color:#fff;margin-top:20rpx; font-weight:medium">小程序支持内嵌网页操作啦</view>
+  <view style="margin-top:80%;">
+    <button class="welcom-button" bindtap="toHome">开启</button>
+  </view>
+</view>
